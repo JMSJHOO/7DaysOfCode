@@ -1,0 +1,19 @@
+body{
+    height: 100%;
+    margin: 0;
+}
+
+.titulo__pagina{
+    text-align: center;
+    color: aqua; 
+    width: auto; 
+    background-color: black;
+    border-radius: 25px;
+}
+
+h1{
+    align-items: center;
+    align-content: center;
+    font-size: 50px;
+
+}
